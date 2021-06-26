@@ -12,7 +12,7 @@
     <br />
 	Always welcome for improvements!
 	<br />
-    <a href="https://github.com/massimoGG/step-down-converter"><strong>Documentation »</strong></a>
+    <a href="https://github.com/massimoGG/step-down-converter/wiki"><strong>Documentation »</strong></a>
     <br />
     <br />
     ·
