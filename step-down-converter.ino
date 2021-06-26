@@ -82,6 +82,7 @@ void setup() {
   Wire.begin();
   if(!adc.init()){
     Serial.println("ADS1115 not connected!");
+    while (1) {yield();}  // Block 
   }
   adc.setVoltageRange_mV(ADS1115_RANGE_6144);
   adc.setConvRate(ADS1115_860_SPS);
